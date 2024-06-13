@@ -9,7 +9,7 @@
 
 📚 Frameworks and Libraries
 
-![](https://skillicons.dev/icons?i=nodejs,react,vue,next,express,discordjs,pnpm,sass,jquery)
+![](https://skillicons.dev/icons?i=nodejs,react,vue,next,express,discordjs,pnpm,sass,jquery,tailwind)
 
 💾 Databases
 
